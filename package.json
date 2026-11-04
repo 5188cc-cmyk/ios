@@ -1,0 +1,11 @@
+{
+  "name": "yaoshibu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "要事簿：记录每天重要事情的 iPhone 记事本",
+  "dependencies": {
+    "@capacitor/cli": "^7.6.10",
+    "@capacitor/core": "^7.6.10",
+    "@capacitor/ios": "^7.6.10"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "com.yaoshibu.notes",
+  "appName": "要事簿",
+  "webDir": "dist",
+  "backgroundColor": "#1f4a3f",
+  "ios": {
+    "contentInset": "never",
+    "scrollEnabled": false
+  }
+}
